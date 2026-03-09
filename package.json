@@ -1,0 +1,19 @@
+{
+    "name": "vinarija-dine",
+    "version": "1.0.0",
+    "description": "Web stranica za Vinarija i OPG Dine",
+    "main": "index.html",
+    "scripts": {
+        "start": "serve ."
+    },
+    "keywords": [
+        "winery",
+        "vinarija-dine",
+        "blato-na-korculi"
+    ],
+    "author": "OPG Dine",
+    "license": "MIT",
+    "devDependencies": {
+        "serve": "^14.2.1"
+    }
+}

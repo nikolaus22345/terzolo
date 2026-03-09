@@ -1,0 +1,22 @@
+# Python scripts we created for debugging/fixing images
+*.py
+__pycache__
+bg_test.jpg
+test_combined.jpg
+test_slider.jpg
+
+# Node modules
+node_modules/
+.env
+
+# Vercel
+.vercel/
+
+# Editor/OS files
+.vscode/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

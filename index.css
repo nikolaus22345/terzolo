@@ -296,7 +296,7 @@ section {
 }
 
 .hero-bottle-wrap::after {
-    content: "Dine";
+    content: "Škaulj";
     position: absolute;
     top: 55%;
     left: 50%;
@@ -472,7 +472,7 @@ section {
 
 .variety-bottle-img {
     flex: 1.2;
-    background-size: 110%;
+    background-size: cover;
     background-repeat: no-repeat;
     background-position: center bottom;
     padding: 0;
@@ -483,7 +483,7 @@ section {
 }
 
 .variety-bottle-img::after {
-    content: "Dine";
+    content: "Škaulj";
     font-family: 'Great Vibes', cursive;
     font-size: 100px;
     color: #444;
@@ -493,12 +493,12 @@ section {
 }
 
 .variety-row:not(.reverse) .variety-bottle-img::after {
-    left: 48%;
+    left: 45%;
     top: 50%;
 }
 
 .variety-row.reverse .variety-bottle-img::after {
-    right: 48%;
+    right: 45%;
     top: 50%;
     color: #555;
     font-size: 85px;

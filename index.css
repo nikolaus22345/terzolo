@@ -296,7 +296,7 @@ section {
 }
 
 .hero-bottle-wrap::after {
-    content: "Škaulj";
+    content: "Karaba";
     position: absolute;
     top: 55%;
     left: 50%;
@@ -483,7 +483,7 @@ section {
 }
 
 .variety-bottle-img::after {
-    content: "Škaulj";
+    content: "Karaba";
     font-family: 'Great Vibes', cursive;
     font-size: 100px;
     color: #444;
